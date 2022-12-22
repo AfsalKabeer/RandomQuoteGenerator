@@ -1,0 +1,26 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "A random quote Generation Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfsalKabeer/RandomQuoteGenerator.git"
+  },
+  "keywords": [
+    "Random",
+    "Quotes"
+  ],
+  "author": "Afsal Kabeer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AfsalKabeer/RandomQuoteGenerator/issues"
+  },
+  "homepage": "https://github.com/AfsalKabeer/RandomQuoteGenerator#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
